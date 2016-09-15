@@ -65,7 +65,7 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.3.0/bin/node">
-      <version-cache version="6.3.0" last-modified="1467824220000" />
+      <version-cache version="6.3.0" last-modified="1467824484000" />
       <npm-package value="$USER_HOME$/.nvm/versions/node/v6.3.0/lib/node_modules/npm" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.2.2/bin/node">
