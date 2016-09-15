@@ -1,0 +1,5 @@
+<keymap version="1" name="Eclipse copy 0" parent="Eclipse">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+</keymap>
