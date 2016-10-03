@@ -11,7 +11,6 @@
   <TypeScriptCodeStyleSettings>
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
     <option name="SPACE_AFTER_DOTS_IN_REST_PARAMETER" value="true" />
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
@@ -20,8 +19,10 @@
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="JavaScript">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
@@ -49,7 +50,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
-    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
@@ -58,6 +59,8 @@
     <option name="SPACE_WITHIN_CATCH_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_SWITCH_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
