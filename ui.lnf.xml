@@ -3,5 +3,6 @@
     <option name="FONT_FACE" value="Ubuntu" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
   </component>
 </application>
