@@ -2,6 +2,9 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
