@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="blah" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="plist" type="TSLint" />
     </extensionMap>
